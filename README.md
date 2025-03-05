@@ -2,6 +2,12 @@ Description
 
 The Book Review Platform is a full-stack web application where users can browse books, read and write reviews, and rate books. The application consists of a React frontend and a Node.js backend using Express and MongoDB.
 
+<a href="https://book-review-platform-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <button style={{ padding: '10px 20px', fontSize: '16px', cursor: 'pointer' }}>
+    Live Demo
+  </button>
+</a>
+
 Features
 
 Frontend
